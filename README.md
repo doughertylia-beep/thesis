@@ -1,4 +1,4 @@
-# Presidential Rhetoric & U.S. Imperialism: Creating an Obscuration Index
+# The Obscuration Index: Presidential Rhetoric & U.S. Imperialism
 
 This repository contains a key portion of the thesis:
 **"From Rhetoric to Reality: U.S. Imperialist Violence, Presidential Rhetoric, and the Military-Industrial Complex"**  

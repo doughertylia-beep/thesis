@@ -3,7 +3,7 @@
 This repository contains a key portion of the thesis:  
 **"From Rhetoric to Reality: U.S. Imperialist Violence, Presidential Rhetoric, and the Military-Industrial Complex"**  
 
-It implements the creation of an **"obscuration" variable"**, which measures the rhetorical reliance on U.S. exceptionalist narratives in presidential speeches, particularly those pertaining to U.S. imperialism abroad.
+It implements the creation of the **"obscuration variable"**, which measures the rhetorical reliance on U.S. exceptionalist narratives in presidential speeches, particularly those covering U.S. imperialist violence abroad.
 
 ---
 

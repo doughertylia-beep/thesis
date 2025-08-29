@@ -1,9 +1,13 @@
 # The Obscuration Index: Presidential Rhetoric & U.S. Imperialism
 
-This repository contains a key portion of the thesis:  
+This repository contains a key portion of the undergraduate thesis from Davidson College:  
 **"From Rhetoric to Reality: U.S. Imperialist Violence, Presidential Rhetoric, and the Military-Industrial Complex"**  
 
-It implements the creation of the **"obscuration variable"**, which measures the rhetorical reliance on U.S. exceptionalist narratives in presidential speeches, particularly those covering U.S. imperialist violence abroad.
+It implements the creation of the **"obscuration variable"**, which measures the rhetorical reliance on U.S. exceptionalist narratives in presidential speeches, particularly those covering U.S. imperialist violence abroad. Inspiration of methodology is taken from Pérez and Minozzo (2022).
+
+Moreno Pérez, C., & Minozzo, M. (2022, September 16). Natural language processing and financial 
+markets: Semi-supervised modelling of coronavirus and economic news. Banco de España 
+Working Paper No. 2228. SSRN. http://dx.doi.org/10.2139/ssrn.4220516 
 
 ---
 
